@@ -1,0 +1,15 @@
+{
+    "name": "theia-sample",
+    "version": "0.0.0",
+    "dependencies": {
+        "@theia/core": "1.40.0",
+        "@theia/preferences": "1.40.0"
+    },
+    "devDependencies": {
+        "@theia/cli": "1.40.0"
+    },
+    "scripts": {
+        "build": "theia build",
+        "start": "theia start"
+    }
+}
